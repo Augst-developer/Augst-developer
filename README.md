@@ -1,16 +1,56 @@
-## Hi there 👋
+---
 
-<!--
-**Augst-developer/Augst-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre o Projeto
 
-Here are some ideas to get you started:
+Este é um projeto genérico criado para demonstrar um README estilizado e atrativo no GitHub.
+Aqui você pode descrever:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎯 Objetivo do projeto
+* 💡 Ideia principal
+* 🛠️ Tecnologias utilizadas
+
+---
+
+## 🧰 Tecnologias
+
+---
+
+## 📊 Estatísticas
+
+---
+
+## 🔥 Streak
+
+---
+
+## 🌎 Conecte-se comigo
+
+
+\
+
+---
+
+## ⚡ Extras
+
+---
+
+## 📁 Estrutura do Projeto
+
+```bash
+📦 projeto
+ ┣ 📂 src
+ ┣ 📂 assets
+ ┣ 📜 README.md
+ ┗ 📜 package.json
+```
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT.
+Sinta-se livre para usar e modificar!
+
+---
+
+✨ Feito com dedicação ✨
