@@ -1,5 +1,16 @@
 <div align="center">
 
+<!-- HEADER SEM TEXTO FIXO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<!-- TEXTO COM ANIMAÇÃO (DIGITAÇÃO) -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Seja+bem-vindo+👋;Ao+meu+GitHub;José+Augusto" />
+
+</div>
+
+<!--
+<div align="center">
+
 <!-- HEADER ANIMADO -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=José%20Augusto&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
@@ -9,6 +20,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo+🚀" />
 
 </div>
+-->
 
 ---
 
