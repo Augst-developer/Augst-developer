@@ -2,11 +2,11 @@
 
 <!-- HEADER ANIMADO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Seja%Bem-vindo!&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Welcome!&fontSize=45&fontColor=FFFFFF&font&animation=twinkling" width="100%"/>
 
 <!-- TYPING EFFECT -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo+🚀" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
@@ -48,8 +48,7 @@ Sou um desenvolvedor em formação, curioso por natureza e sempre buscando apren
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Augst-developer&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augst-developer&layout=compact&theme=tokyonight"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Augst-developer&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Augst-developer&theme=2077)
 
 </div>
 
