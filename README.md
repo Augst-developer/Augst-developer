@@ -80,27 +80,8 @@ Busco evoluir constantemente como desenvolvedor, adquirindo experiência prátic
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```bash
-📦 projeto
- ┣ 📂 src
- ┣ 📂 assets
- ┣ 📜 README.md
- ┗ 📜 package.json
-```
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
-Sinta-se livre para usar e modificar!
-
----
-
 <div align="center">
 
-✨ *"Aprender nunca é demais."* ✨
+ *"Uma pessoa que nunca cometeu um erro jamais tentou algo novo."  |  Albert Einstein* 
 
 </div>
