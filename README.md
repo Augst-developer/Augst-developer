@@ -58,7 +58,7 @@ Sou um desenvolvedor em formação, curioso por natureza e sempre buscando apren
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Augst-developer&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Augst-developer&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
