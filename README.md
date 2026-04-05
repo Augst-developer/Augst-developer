@@ -16,7 +16,7 @@
 ## 👨‍💻 Sobre mim
 
 Olá! Me chamo **José Augusto** 👋
-Sou um desenvolvedor em formação, curioso por natureza e sempre buscando aprender novas tecnologias.
+Sou um desenvolvedor em formação, curioso por natureza e sempre em busca de aprender novas tecnologias.
 
 💡 Tenho interesse em desenvolvimento **Full Stack** e gosto de transformar ideias em código.
 
