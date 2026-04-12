@@ -58,7 +58,7 @@ Sou um desenvolvedor em formação, curioso por natureza e sempre em busca de ap
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Augst-developer&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Augst-developer&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
