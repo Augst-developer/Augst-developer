@@ -48,7 +48,8 @@ Sou um desenvolvedor em formação, curioso por natureza e sempre em busca de ap
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Augst-developer&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Augst-developer&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Augst-developer&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Augst-developer&theme=2077)
 
 </div>
 
