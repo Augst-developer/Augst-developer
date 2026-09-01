@@ -1,89 +1,14 @@
-<div align="center">
-
-<!-- HEADER ANIMADO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Welcome!&fontSize=45&fontColor=FFFFFF&font&animation=twinkling" width="100%"/>
-
-<!-- TYPING EFFECT -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=19&pause=1000&color=F7F7F7&width=435&lines=Curiosity+is+the+key+to+knowledge;Don't+be+afraid+to+ask+%22why%22+or+%22how%22" alt="Typing SVG" /></a>
-
-</div>
+# Hey! I'm José Augusto ⚡
+Driven by curiosity, ambition, and a passion for technology, I thrive on challenging myself and turning ideas into practical solutions.<br> 
+I continuously seek to expand my skills by building personal projects, exploring new technologies, and tackling increasingly complex problems.<br><br>
 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Augst-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Augst-developer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Augst-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 👨‍💻 Sobre mim
-
-Olá! Me chamo **José Augusto** 👋
-Sou um desenvolvedor em formação, curioso por natureza e sempre em busca de aprender novas tecnologias.
-
-💡 Tenho interesse em desenvolvimento **Full Stack** e gosto de transformar ideias em **soluções através do código**.
-
-
----
-
-## 🧠 Atualmente estudando
-
-* ☕ Java
-* 🐍 Python
-* 🌱 Spring Boot
-* ⚛️ React
-* ▲ Next.js
-* 🟨 JavaScript
-* 🌐 HTML & CSS
-
----
-
-## 🧰 Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,spring,react,nextjs,js,html,css,git,github,vscode" />
-
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Augst-developer&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Augst-developer&theme=2077)
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Augst-developer&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 Objetivo
-
-Busco evoluir constantemente como desenvolvedor, adquirindo experiência prática e construindo projetos que resolvam problemas reais.
-
----
-
-## 🌎 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jserramota/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Augst-developer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
- *"Uma pessoa que nunca cometeu um erro jamais tentou algo novo."  |  Albert Einstein* 
-
-</div>
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jserramota/) 
